@@ -1,3 +1,7 @@
+# 🐷 Pig365 – Dual-Root Domain (IDN/ASCII) Architecture
+# webdev
+# domain
+# cloudflare-users
 Hello all X seniors and partners:
 
 I want to share with everyone the recent independent design, development and deployment works of Chinese children: **Pig365**.
@@ -25,3 +29,5 @@ The project is completely open source and hosted on GitHub:
 🔗 **GitHub Project Library**: https://github.com/ggghhh-7000
 
 We are very welcome for the architects and senior engineers in the community to give children some architectural suggestions, exchange ideas, or give a ⭐ Star encouragement! Thank you all for supporting the programmers who explore programming independently for the next generation!
+
+my cloudflare-account “ggghhh157@outlook.com”
