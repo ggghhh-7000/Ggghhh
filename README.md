@@ -1,3 +1,7 @@
+hello
+
+
+
 # 🐷 Pig365 – Dual-Root Domain (IDN/ASCII) Architecture
 
 > Open-source modular web ecosystem and dual-root DNS architecture built independently by a Taiwanese elementary school student developer.
@@ -45,9 +49,14 @@ We warmly welcome architects, developers, and senior engineers in the community 
 
 
 # 🐷 Pig365 – Dual-Root Domain (IDN/ASCII) Architecture
+> pig365’s domain
+
 # webdev
+> webapp 
 # domain
+> domain
 # cloudflare-users
+> I’m cloudflare-user
 Hello all X seniors and partners:
 
 I want to share with everyone the recent independent design, development and deployment works of Chinese children: **Pig365**.
