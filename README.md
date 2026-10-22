@@ -1,7 +1,3 @@
-hello
-
-
-
 # 🐷 Pig365 – Dual-Root Domain (IDN/ASCII) Architecture
 
 > Open-source modular web ecosystem and dual-root DNS architecture built independently by a Taiwanese elementary school student developer.
